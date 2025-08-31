@@ -1,1 +1,1 @@
-# secret-games-website
+This is the Secret Games Website.
